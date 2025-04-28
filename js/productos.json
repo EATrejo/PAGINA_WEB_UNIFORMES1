@@ -1,0 +1,252 @@
+[
+    {
+        "id": "Linea médica 01",
+        "titulo": "Linea médica 01",
+        "imagen": "./imagenes/linea.medica.dama.2.jpg",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Linea médica 02",
+        "titulo": "Linea médica 02",
+        "imagen": "./imagenes/linea.medica.dama.3.jpg",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 03",
+        "titulo": "Linea médica 03",
+        "imagen": "./imagenes/linea.medica.dama.4.jpg",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 04",
+        "titulo": "Linea médica 04",
+        "imagen": "./imagenes/linea.medica.dama.5.webp",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 05",
+        "titulo": "Linea médica 05",
+        "imagen": "./imagenes/linea.medica.dama.6.webp",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 06",
+        "titulo": "Linea médica 06",
+        "imagen": "./imagenes/linea.medica.dama.7.webp",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 07",
+        "titulo": "Linea médica 07",
+        "imagen": "./imagenes/linea.medica.dama.8.webp",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 08",
+        "titulo": "Linea médica 08",
+        "imagen": "./imagenes/linea.medica.dama.10.jpg",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 09",
+        "titulo": "Linea médica 09",
+        "imagen": "./imagenes/linea.medica.dama.11.webp",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 09",
+        "titulo": "Linea médica 10",
+        "imagen": "./imagenes/linea.medica.dama.12.webp",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea médica 11",
+        "titulo": "Linea médica 11",
+        "imagen": "./imagenes/linea.medica.dama.14.jpg",
+        "categoria": {
+            "nombre": "Linea Médica",
+            "id": "linea-medica"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 01",
+        "titulo": "Linea restaurante 01",
+        "imagen": "./imagenes/linea.restaurante.2.jpg",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 02",
+        "titulo": "Linea restaurante 02",
+        "imagen": "./imagenes/linea.restaurante.4.webp",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 03",
+        "titulo": "Linea restaurante 03",
+        "imagen": "./imagenes/linea.restaurante.5.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 04",
+        "titulo": "Linea restaurante 04",
+        "imagen": "./imagenes/linea.restaurante.6.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 05",
+        "titulo": "Linea restaurante 05",
+        "imagen": "./imagenes/linea.restaurante.7.jpg",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 06",
+        "titulo": "Linea restaurante 06",
+        "imagen": "./imagenes/linea.restaurante.8.jpg",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 07",
+        "titulo": "Linea restaurante 07",
+        "imagen": "./imagenes/linea.restaurante.9.jpg",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 08",
+        "titulo": "Linea restaurante 08",
+        "imagen": "./imagenes/linea.restaurante.10.jpg",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 09",
+        "titulo": "Linea restaurante 09",
+        "imagen": "./imagenes/linea.restaurante.12.jpg",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea restaurante 10",
+        "titulo": "Linea restaurante 10",
+        "imagen": "./imagenes/linea.restautante.3.jpg",
+        "categoria": {
+            "nombre": "Linea Restaurante",
+            "id": "linea-restaurante"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea Spa 01",
+        "titulo": "Linea spa 01",
+        "imagen": "./imagenes/linea.spa.dama.01.jpg",
+        "categoria": {
+            "nombre": "linea-spa",
+            "id": "linea-spa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea Spa 02",
+        "titulo": "Linea spa 02",
+        "imagen": "./imagenes/linea.spa.dama.02.jpg",
+        "categoria": {
+            "nombre": "Linea Spa",
+            "id": "linea-spa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea Spa 03",
+        "titulo": "Linea spa 03",
+        "imagen": "./imagenes/linea.spa.dama.04.jpg",
+        "categoria": {
+            "nombre": "Linea Spa",
+            "id": "linea-spa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "linea Spa 04",
+        "titulo": "Linea spa 04",
+        "imagen": "./imagenes/linea.spa.dama.05.jpg",
+        "categoria": {
+            "nombre": "Linea Spa",
+            "id": "linea-spa"
+        },
+        "precio": 1000
+    }
+]
